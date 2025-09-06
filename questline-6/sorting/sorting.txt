@@ -1,0 +1,15 @@
+INSERTION SORT
+
+ALGORITHM
+
+1.Start with the second element (index 1) of the list as the "key".
+
+2.Compare the key with the elements before it.
+
+3.Shift elements that are larger than the key one position to the right.
+
+4.Insert the key into its correct position.
+
+5.Repeat steps 2–4 for all elements in the list (from index 1 to end).
+
+6.The list will be sorted when all keys are placed in their correct positions.
