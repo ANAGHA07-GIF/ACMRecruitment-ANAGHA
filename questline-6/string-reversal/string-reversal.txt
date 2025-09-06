@@ -1,0 +1,7 @@
+ITERATIVE METHOD
+
+The program first takes a string as input from the user and stores it in s. Then it counts the number of characters in the string by looping through each character and increasing n by one each time. After that, it creates an empty string called rev and uses another loop to go backwards through the original string, starting from the last character and ending with the first. In each step of this loop, it adds the current character to rev. By the end of the loop, rev contains all the characters of the input string but in reverse order. Finally, the program prints this reversed string.
+
+RECURSIVE METHOD
+
+The program first asks the user to type a string and stores it in s. Then, using a for loop, it counts how many characters are in the string and stores that number in length. Next, it creates an empty string rev to hold the reversed result. A while loop is then used: as long as length is greater than 0, the program takes the character at position length - 1 (the last character first), adds it to rev, and then decreases length by 1 to move left through the string. This continues until all characters are added in reverse order. Finally, it prints the new reversed string
