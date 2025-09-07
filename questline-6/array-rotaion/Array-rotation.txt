@@ -1,0 +1,8 @@
+PROBLEM
+The problem is to rotate a list of numbers by a given number of steps, k. A right rotation means taking the last element of the list and moving it to the front while shifting all the other elements one position to the right. If this process is repeated k times, we get the final rotated list. For example, if the input list is [1, 2, 3, 4, 5] and k = 2, then after the first rotation we get [5, 1, 2, 3, 4], and after the second rotation we get [4, 5, 1, 2, 3]. Thus, the final result is [4, 5, 1, 2, 3].
+
+SOLUTION APPROACH
+The solution begins by taking three inputs: the number of elements n, the list of numbers nums, and the rotation step count k. Once the inputs are collected, the goal is to rearrange the list without manually shifting elements one by one, which would be inefficient. Instead, Python’s slicing feature can be used to solve the problem in a single line.
+
+The key idea is to split the list into two parts and then recombine them in reversed order. The last k elements of the list are selected using nums[-k:], while the first n-k elements are selected using nums[:-k]. By concatenating these two parts, we get the rotated list. For example, if nums = [1, 2, 3, 4, 5] and k = 2, then nums[-2:] gives [4, 5] and nums[:-2] gives [1, 2, 3]. Putting them together results in [4, 5, 1, 2, 3], which is the rotated list.
+
