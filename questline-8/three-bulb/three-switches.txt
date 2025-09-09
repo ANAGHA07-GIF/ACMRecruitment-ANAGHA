@@ -1,0 +1,2 @@
+EXPLANATION 
+First, turn on the first switch and leave it on for a few minutes so the bulb, if connected, has time to heat up. Then turn the first switch off and switch on the second one, while keeping the third switch off. Now go into the room with the bulb. If the bulb is glowing, it means the second switch controls it. If the bulb is off but still warm, it means the first switch controls it because it was on earlier. If the bulb is off and cold, then it must be controlled by the third switch.
