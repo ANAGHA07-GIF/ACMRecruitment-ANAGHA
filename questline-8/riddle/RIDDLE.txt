@@ -1,0 +1,5 @@
+EXPLANATION 
+The farmer has to take the goat 1st, leaving behind the wolf and the cabbage. 
+Then the farmer has to take the wolf, leaving behind the cabbage.
+Then the farmer has to return with the goat living behind the wolf and leave the goat and take the cabbage to the other side.
+Then the farmer has to return and take the goat 
