@@ -1,0 +1,6 @@
+EXPLANATION 
+The 1st term is 2. On adding 4 to 2, we get 6 and on adding 6(the next even no after 4) to 6, we get 12.
+On adding 8(next even no after 6) we get 20 
+so the next 2 terms will be [20 +10=30 and 30+12=42] 30 and 42
+
+
