@@ -1,0 +1,2 @@
+EXPLANATION 
+First, A and B cross the bridge together, which takes 2 minutes. Then A brings the torch back, adding 1 minute, so the total is 3 minutes. Next, C and D cross together, which takes 10 minutes, making the total 13 minutes. After that, B returns with the torch in 2 minutes, bringing the total to 15 minutes. Finally, A and B cross the bridge again in 2 minutes, making the total time 17 minutes for everyone to get across
