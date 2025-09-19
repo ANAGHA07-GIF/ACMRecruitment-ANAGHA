@@ -1,2 +1,0 @@
-Hello -I'm Anagha
-THis is a short intro file for git branching exercise
